@@ -1,6 +1,5 @@
-from Pessoa import Pessoa
-from Candidato import Candidato
-from le_dados import ler_dados
+from leitura import ler_dados
+from candidato import Candidato
 
 
 def pode_votar(idade):
